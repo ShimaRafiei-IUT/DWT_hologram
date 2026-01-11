@@ -156,7 +156,9 @@ If you use this code in your research, please cite:
   journal={arXiv preprint arXiv:2211.09938},
   year={2022}
 }
-```
 
+
+```
+“Saliency-guided Progressive Hologram Generation,” in Frontiers in Optics + Laser Science Conference (FiO+LS 2025), Optica Publishing Group, Denver, CO, USA, 2025.
 ---
 
