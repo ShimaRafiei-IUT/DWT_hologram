@@ -150,15 +150,14 @@ By switching NumPy to CuPy (`import cupy as cp`), large hologram computations ca
 If you use this code in your research, please cite:
 
 ```bibtex
-@article{rafiei2022dwt,
-  title={Title of the Paper},
-  author={Rafiei, Shima and others},
-  journal={arXiv preprint arXiv:2211.09938},
-  year={2022}
+@inproceedings{Rafiei2025Saliency,
+  title     = {Saliency-guided Progressive Hologram Generation},
+  author    = {Rafiei, Shima and others},
+  booktitle = {Frontiers in Optics + Laser Science Conference (FiO+LS 2025)},
+  year      = {2025},
+  publisher = {Optica Publishing Group},
+  address   = {Denver, CO, USA}
 }
-
-
 ```
-“Saliency-guided Progressive Hologram Generation,” in Frontiers in Optics + Laser Science Conference (FiO+LS 2025), Optica Publishing Group, Denver, CO, USA, 2025.
 ---
 
